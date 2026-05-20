@@ -153,20 +153,20 @@
 # last word
 
 
-sentence = input("Enter sentese here: ").title()
+# sentence = input("Enter sentese here: ").title()
 
-cleaned = " ".join(sentence.split()).title()
+# cleaned = " ".join(sentence.split()).title()
 
-text = cleaned.split()
+# text = cleaned.split()
 
-first_word = text[0]
-last_word = text[-1]
-total_len = len(text)
+# first_word = text[0]
+# last_word = text[-1]
+# total_len = len(text)
 
-print("Uncleaned sentese: ", cleaned)
-print("Total Words: ", total_len)
-print("First word: ", first_word)
-print("Last word: ", last_word)
+# print("Uncleaned sentese: ", cleaned)
+# print("Total Words: ", total_len)
+# print("First word: ", first_word)
+# print("Last word: ", last_word)
 
 
 # ----------------------------------------------------------------------------------------------------------------------------------------------------
