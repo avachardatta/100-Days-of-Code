@@ -205,44 +205,45 @@
 
 
 
-while True:
-    emp_name = " ".join(input(...).split()).title()
-    check_alph = emp_name.isalpha()
+# while True:
+#     emp_name = " ".join(input(...).split()).title()
+#     check_alph = emp_name.isalpha()
 
-    if emp_name.replace(" ", "").isalpha():
-        print("valid word")
-        break
-    else:
-        print("Not valid word. Name should contain only alphabets.")
-
-
-while True:
-    emp_email = input("Enter ur email: ").lower()
-
-    if "@" in emp_email and emp_email.endswith(".com"):
-        print("Email is valid")
-        break
-    else:
-        print("Not valid Email. email should contain @ and endswith .com")    
+#     if emp_name.replace(" ", "").isalpha():
+#         print("valid word")
+#         break
+#     else:
+#         print("Not valid word. Name should contain only alphabets.")
 
 
-emp_dept = input("Enter ur dept name: ").upper()
-print("Emp Department: ", emp_dept)
+# while True:
+#     emp_email = input("Enter ur email: ").lower()
 
-skills = []
-for i in range(3):
-    emp_skills = input(f"Enter ur skills here {i+1} : ")
-    skills.append(emp_skills)
-print("Emp skills: ", skills, "\n")    
+#     if "@" in emp_email and emp_email.endswith(".com"):
+#         print("Email is valid")
+#         break
+#     else:
+#         print("Not valid Email. email should contain @ and endswith .com")    
+
+
+# emp_dept = input("Enter ur dept name: ").upper()
+# print("Emp Department: ", emp_dept)
+
+# skills = []
+# for i in range(3):
+#     emp_skills = input(f"Enter ur skills here {i+1} : ")
+#     skills.append(emp_skills)
+# print("Emp skills: ", skills, "\n")    
     
 
-while True:
-    emp_file = input("Enter a file name: ").lower()
+# while True:
+#     emp_file = input("Enter a file name: ").lower()
 
-    if emp_file.startswith("report") and emp_file.endswith(".txt"):
-        print("Valid file")
-        break
-    else:
-        print("Invalid file !Must start with 'report' and end with '.txt")    
+#     if emp_file.startswith("report") and emp_file.endswith(".txt"):
+#         print("Valid file")
+#         break
+#     else:
+#         print("Invalid file !Must start with 'report' and end with '.txt")    
 
+# --------------------------------------------------------------------------------------------------------------------------------------------------------
 

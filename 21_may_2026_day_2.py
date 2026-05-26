@@ -393,34 +393,6 @@
 
 # ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Create nested list:
-# Then print:
-# Rahul's marks
-# Amit's name
-
-
-students = [
-    ["Datta", 85],
-    ["Rahul", 90],
-    ["Amit", 78]
-]
-
-print("Rahul Marks: ", students[1][1])
-print(students[2][0])
-
-search_name = input("Enter name and check marks: ").title()
-found = False
-
-for row in students:
-    if row[0] == search_name:
-        print(f"Found! Name: {row[0]},marks : {row[1]}")
-        found = True
-        break
-
-if not found:
-    print("Not found")
-
-
 
 
 
