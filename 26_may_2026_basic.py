@@ -247,3 +247,91 @@
 
 # --------------------------------------------------------------------------------------------------------------------------------------------------------
 
+# Write a program that:
+
+# ask user to enter:5 username
+
+# store usernames in list
+# conditions for each username:
+# must not contain spaces
+# must not start with digit
+# username length should be: 5 to 12
+
+# if valid then store to the valid list or if not then store to invalid list
+
+
+
+# valid_username = []
+# invalid_username = []
+
+
+# for i in range(5):
+#     usr_name = input(f"Enter ur user name here {i+1}: ")
+#     has_space = " " in usr_name
+#     start_with_digit = usr_name[0].isdigit() if len(usr_name) > 0 else False
+#     correct_length = 5<=len(usr_name) <=12
+
+#     if not has_space and not start_with_digit and correct_length:
+#         valid_username.append(usr_name)
+#         print("Valid usrname")
+#     else:
+#         invalid_username.append(usr_name)
+#         print("invalid user name")
+
+# print("Valid User Name: ", valid_username)    
+# print("InValid User Name: ", invalid_username)    
+
+
+# ----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Write a program that:
+
+# ask user to enter:5 passwords
+# conditions for valid password:
+# minimum length 8 
+# must contain:
+# at least 1 uppercase letter
+# at least 1 lowercase letter
+# at least 1 digit
+# store:
+# valid passwords → valid_pass list
+# invalid passwords → invalid_pass list
+# print both lists
+
+
+valid_pass = []
+invalid_pass = []
+
+for i in range(5):
+    passw = input(f"Enter ur password here {i+1}: ")
+
+    upper_pass = any(c.isupper()  for c in passw)
+    lower_pass = any(c.islower()  for c in passw)
+    digit_pass = any(c.isdigit()  for c in passw)
+    correct_length = 8>=len(passw)
+
+    if upper_pass and lower_pass and digit_pass and correct_length:
+        valid_pass.append(passw)
+        print("Valid password")
+    else:
+        invalid_pass.append(passw)
+        print("Invalid password")
+
+
+
+
+print("Valid pass: ", valid_pass)   
+print("Invalid pass: ", invalid_pass)
+
+
+
+
+
+
+
+
+
+
+
+
+
