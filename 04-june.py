@@ -56,20 +56,20 @@
 
 # Nested List + Highest Marks)
 
-students = [
-    ["Datta", 85],
-    ["Rahul", 90],
-    ["Amit", 78],
-    ["Priya", 92]
-]
+# students = [
+#     ["Datta", 85],
+#     ["Rahul", 90],
+#     ["Amit", 78],
+#     ["Priya", 92]
+# ]
 
-highest_student = students[0]
+# highest_student = students[0]
 
-for student in students:
-       if student[1] > highest_student[1]: 
-            highest_student = student
+# for student in students:
+#        if student[1] > highest_student[1]: 
+#             highest_student = student
 
-print(f"Student: {highest_student[0]} | Marks: {highest_student[1]}")  
+# print(f"Student: {highest_student[0]} | Marks: {highest_student[1]}")  
 
 
 

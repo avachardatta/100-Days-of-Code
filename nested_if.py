@@ -104,38 +104,38 @@ available_items = {
     "Monitor": 10000
 }
 
-orders = []
-total_bill = 0
+# orders = []
+# total_bill = 0
 
-total_budget = float(input("Enter your total shopping budget: "))
-remaining_budget = total_budget
+# total_budget = float(input("Enter your total shopping budget: "))
+# remaining_budget = total_budget
 
 
-for i in range(3):
-    print(f"\n-----Item{i+1}----")
-    customer_order = input("Choose item (Laptop, Mouse, Keyboard, Monitor): ").capitalize()
+# for i in range(3):
+#     print(f"\n-----Item{i+1}----")
+#     customer_order = input("Choose item (Laptop, Mouse, Keyboard, Monitor): ").capitalize()
 
-    if customer_order in available_items:
-        item_price = available_items[customer_order]
+#     if customer_order in available_items:
+#         item_price = available_items[customer_order]
         
-        if remaining_budget >= item_price:
-            orders.append(customer_order)
-            total_bill += item_price          
-            remaining_budget -= item_price    
-            print(f"Added {customer_order} to your orders. Cost: {item_price}")
-        else:
-            print(f"Insufficient funds! {customer_order} costs {item_price}, but you only have {remaining_budget} left.")
+#         if remaining_budget >= item_price:
+#             orders.append(customer_order)
+#             total_bill += item_price          
+#             remaining_budget -= item_price    
+#             print(f"Added {customer_order} to your orders. Cost: {item_price}")
+#         else:
+#             print(f"Insufficient funds! {customer_order} costs {item_price}, but you only have {remaining_budget} left.")
             
-    else:
-        print("Invalid item selected. This item will not be added.")
+#     else:
+#         print("Invalid item selected. This item will not be added.")
 
-print("\n" + "="*30)
-print("FINAL RECEIPT")
-print("="*30)
-print(f"Initial Budget: {total_budget}")
-print(f"Your final orders: {orders}")
-print(f"Total Bill: {total_bill}")
-print(f"Remaining Change: {remaining_budget}")
+# print("\n" + "="*30)
+# print("FINAL RECEIPT")
+# print("="*30)
+# print(f"Initial Budget: {total_budget}")
+# print(f"Your final orders: {orders}")
+# print(f"Total Bill: {total_bill}")
+# print(f"Remaining Change: {remaining_budget}")
 
 
 

@@ -409,15 +409,15 @@ students = [
 ]
 
 
-highest_name = students[0][0]
-highest_marks = students[0][1]                                                                                                                  
+# highest_name = students[0][0]
+# highest_marks = students[0][1]                                                                                                                  
 
-for student in students:
-    current_name = student[0]
-    current_score = student[1]
+# for student in students:
+#     current_name = student[0]
+#     current_score = student[1]
 
-    if current_score > highest_marks:
-        highest_marks = current_score
-        highest_name = current_name
+#     if current_score > highest_marks:
+#         highest_marks = current_score
+#         highest_name = current_name
 
-print(f"Topper {highest_name} \n Marks {highest_marks}")    
+# print(f"Topper {highest_name} \n Marks {highest_marks}")    

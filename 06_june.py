@@ -96,16 +96,16 @@
 
 
 
-data = []
-word_gr_than_5 = 0
+# data = []
+# word_gr_than_5 = 0
 
-for i in range(5):
-    row_data = input(f"write a some words here {i+1}: ")
-    data.append(row_data)
+# for i in range(5):
+#     row_data = input(f"write a some words here {i+1}: ")
+#     data.append(row_data)
 
-for word in data:
-    if len(word) > 5:
-        word_gr_than_5 += 1
-        print(word)
+# for word in data:
+#     if len(word) > 5:
+#         word_gr_than_5 += 1
+#         print(word)
 
-print("Count of greter than 5 words: ", data)
+# print("Count of greter than 5 words: ", data)

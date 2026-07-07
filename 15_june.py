@@ -142,25 +142,25 @@
 
 # Calculate the total sales amount.
 
-sales = [
-    ["Laptop", 50000],
-    ["Mouse", 800],
-    ["Keyboard", 1500],
-    ["Monitor", 12000],
-    ["Pen Drive", 700]
-]
+# sales = [
+#     ["Laptop", 50000],
+#     ["Mouse", 800],
+#     ["Keyboard", 1500],
+#     ["Monitor", 12000],
+#     ["Pen Drive", 700]
+# ]
 
 
-total_sales = 0
-count = 0
+# total_sales = 0
+# count = 0
 
-for products , price in sales:
-    total_sales += price
-    count = count + 1
+# for products , price in sales:
+#     total_sales += price
+#     count = count + 1
 
-avg = total_sales / count
+# avg = total_sales / count
 
 
-print("Total sales: ", total_sales)
-print("Average : ", avg)
+# print("Total sales: ", total_sales)
+# print("Average : ", avg)
 

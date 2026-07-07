@@ -1,0 +1,98 @@
+emp_id,First_Name,Last_Name,hourly_pay,Salary,job,Region
+1,Aaliyah,Solace,2085,761025,Accountant Executive,East
+2,Abigail,Levine,2146,783290,Marketing Manager,North
+3,Addison,Thatcher,2001,730365,Ux/Ui Designer,West
+4,Adeline,Raven,1701,620865,Chief Executive Officer,West
+5,Alice,Bardot,1897,692405,Accountant Executive,South
+6,Amelia,St. James,1539,561735,Business Development Manager,West
+7,Anna,Hansley,2172,792780,Chief Finace Officer,East
+8,Aria,Cromwell,1888,689120,Marketing Manager,West
+9,Ariana,Ashley,2181,796065,Vice President Of operation,South
+10,Athena,Monroe,2095,764675,Chief Finace Officer,South
+11,Aubrey,West,1922,701530,Chief Finace Officer,East
+12,Audrey,Langley,2040,744600,Accountant Executive,North
+13,Aurora,Daughtler,1878,685470,Web Developer,West
+14,Autumn,Madison,2051,748615,Accountant Executive,West
+15,Ava,Marley,2186,797890,Business Development Manager,South
+16,Avery,Ellis,1905,695325,Marketing Manager,West
+17,Ayla,Hope,1972,719780,Chief Business Development Officer,East
+18,Bella,Cassidy,1550,565750,Vice President Of Account,West
+19,Brooklyn,Lopez,1917,699705,Accountant Executive,South
+20,Camila,Jenkins,2065,753725,Sales Executive,South
+21,Caroline,Poverly,1615,589475,Chief Finace Officer,North
+22,Chloe,McKenna,1715,625975,Sales Executive,North
+23,Claire,Gonzales,1700,620500,Accountant Executive,West
+24,Cora,Keller,2124,775260,Accountant Executive,North
+25,Delilah,Collymore,2192,800080,Senior Web Developer,West
+26,Eleanor,Stoll,1598,583270,Sales Executive,East
+27,Elena,Verlice,1848,674520,Ux/Ui Designer,South
+28,Eliana,Adler,2170,792050,Project Manager,North
+29,Elizabeth,Huxley,1993,727445,Sales Executive,South
+30,Ella,Ledger,1683,614295,Marketing Manager,South
+31,Ellie,Hayes,1872,683280,Web Developer,North
+32,Eloise,Ford,1622,592030,Vice President Of Account,East
+33,Emery,Finnegan,1746,637290,Chief Finace Officer,West
+34,Emilia,Beckett,1716,626340,Project Manager,East
+35,Emily,Gatlin,2054,749710,Sales Executive,West
+36,Evelyn,Pierce,1522,555530,Sales Executive,West
+37,Everleigh,Zimmerman,1526,556990,Chief Business Development Officer,North
+38,Everly,Dawson,1927,703355,Senior Web Developer,South
+39,Gabriella,Wilson,1637,597505,Vice President Of operation,South
+40,Genesis,Adair,1786,651890,Accountant Executive,South
+41,Gianna,Gray,1594,581810,Marketing Manager,East
+42,Grace,Curran,2079,758835,Web Developer,South
+43,Hailey,Crassus,1947,710655,Chief Finace Officer,South
+44,Hannah,Anderson,2177,794605,Project Manager,East
+45,Harper,Adams,2109,769785,Sales Executive,North
+46,Hazel,Carter,1772,646780,Marketing Manager,East
+47,Iris,Hendrix,2122,774530,Chief Finace Officer,East
+48,Isabella,Lennon,1595,582175,Business Development Manager,East
+49,Isla,Gasper,1526,556990,Web Developer,North
+50,Ivy,Mintz,1526,556990,Project Manager,East
+51,Jade,Ashbluff,2006,732190,Vice President Of operation,East
+52,Josephine,Marblemaw,1883,687295,Accountant Executive,West
+53,Kennedy,Bozzelli,1693,617945,Accountant Executive,West
+54,Kinsley,Fellowes,2009,733285,Senior Web Developer,South
+55,Layla,Windward,1643,599695,Marketing Manager,North
+56,Leah,Yarrow,2076,757740,Ux/Ui Designer,West
+57,Leilani,Yearwood,1663,606995,Senior Web Developer,West
+58,Liliana,Wixx,2007,732555,Chief Business Development Officer,South
+59,Lillian,Humblecut,1600,584000,Ux/Ui Designer,North
+60,Lily,Dustfinger,1730,631450,Web Developer,West
+61,Lucy,Biddlecombe,2151,785115,Project Manager,West
+62,Luna,Kicklighter,1522,555530,Sales Executive,West
+63,Lydia,Vespertine,1952,712480,Director,West
+64,Madelyn,October,1683,614295,Senior Web Developer,East
+65,Madison,Gannon,1994,727810,Web Developer,South
+66,Maria,Truthbelly,1734,632910,Chief Executive Officer,North
+67,Maya,Woodgrip,1988,725620,Ux/Ui Designer,North
+68,Mia,Gorestriker,2178,794970,Business Development Manager,North
+69,Mila,Caskcut,2053,749345,Marketing Manager,South
+70,Naomi,Oatrun,1793,654445,Project Manager,East
+71,Natalia,Sagespark,1824,665760,Chief Finace Officer,South
+72,Natalie,Strongblossom,2136,779640,Ux/Ui Designer,West
+73,Nevaeh,Hydrafist,1996,728540,Director,North
+74,Nora,Snakeleaf,1824,665760,Marketing Manager,South
+75,Nova,Barlowe,1820,664300,Web Developer,East
+76,Paisley,Caddel,2028,740220,Ux/Ui Designer,East
+77,Penelope,Hart,1632,595680,Marketing Manager,West
+78,Quinn,Katz,2008,732920,Accountant Executive,North
+79,Raelynn,Laurier,1707,623055,Chief Business Development Officer,West
+80,Riley,Madden,2013,734745,Project Manager,North
+81,Ruby,Elrod,2182,796430,Senior Web Developer,East
+82,Sadie,Whitlock,2063,752995,Accountant Executive,North
+83,Sarah,Ashford,2038,743870,Director,East
+84,Savannah,Amos,1793,654445,Chief Finace Officer,North
+85,Scarlett,Fleet,2028,740220,Sales Executive,North
+86,Serenity,Moses,1641,598965,Director,East
+87,Skylar,Singh,1759,642035,Vice President Of Account,South
+88,Sofia,Remington,1972,719780,Sales Executive,East
+89,Sophia,Sharpe,2189,798985,Business Development Manager,West
+90,Sophie,Beam,1790,653350,Senior Web Developer,West
+91,Stella,Spade,1548,565020,Project Manager,West
+92,Valentina,Driscoll,1822,665030,Ux/Ui Designer,East
+93,Victoria,Undergrove,2068,754820,Project Manager,South
+94,Violet,Finch,1652,602980,Marketing Manager,West
+95,Willow,Crawford,1618,590570,Web Developer,North
+96,Zoe,Finch,1905,695325,Web Developer,West
+97,Zoey,Cyprus,1961,715765,Project Manager,East

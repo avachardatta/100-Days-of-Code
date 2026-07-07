@@ -92,25 +92,26 @@
 # wap to find a maximum from list of no
 
 
-numbers = input("enter lits of numbers: ")
+# numbers = input("enter lits of numbers: ")
 
-number_list = numbers.split()
+# number_list = numbers.split()
 
-count = 0
-for number in number_list:
-    count += 1
+# count = 0
+# for number in number_list:
+#     count += 1
 
-for i in range(count):
-    number_list[1] = int(number_list[i])
+# for i in range(count):
+#     number_list[1] = int(number_list[i])
 
-max_number = number_list[0]
+# max_number = number_list[0]
 
-for number in number_list:
-    if number > max_number:
-        max_number = number
+# for number in number_list:
+#     if number > max_number:
+#         max_number = number
 
-print("Max Number: ", max_number)        
+# print("Max Number: ", max_number)        
 
+# -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
